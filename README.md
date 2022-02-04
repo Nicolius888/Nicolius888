@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolius888&label=Profile%20views&color=0e75b6&style=flat" alt="nicolius888" /> </p>
 
-- 🔭 I’m currently working on [my Recipes App](https://github.com/Nicolius888/Food-Recipes-App)
+- 👯 I’m currently collaborating in **Buyme-App (ecommerce)** 
 
 - 🌱 I’m currently learning **Typescript, React Native, web deployment**
 
-- 👯 I’m currently colaborating in **Buyme-App (ecommerce)**
+- 🔭 I’m also finishing my [Recipes App](https://github.com/Nicolius888/Food-Recipes-App)
 
 - 💬 Ask me about **React js or Express js**
 
