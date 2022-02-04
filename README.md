@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nico Sammaritano</h1>
 <h3 align="center">A growing full-stack developer from Buenos Aires, 🇦🇷</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolius888&label=Profile%20views&color=0e75b6&style=flat" alt="nicolius888" /> </p>
 
 - 🔭 I’m currently working on [my Recipes App](https://github.com/Nicolius888/Food-Recipes-App)
 
@@ -26,7 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolius888&show_icons=true&locale=en" alt="nicolius888" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolius888&" alt="nicolius888" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolius888&label=Profile%20views&color=0e75b6&style=flat" alt="nicolius888" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolius888" alt="nicolius888" /></a> </p>
 
