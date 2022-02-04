@@ -9,9 +9,9 @@
 
 - 🔭 I’m also finishing my [Recipes App](https://github.com/Nicolius888/Food-Recipes-App)
 
-- 💬 Ask me about **React js or Express js**
+- 📫 Im still working on this profile, for important information you can reach me at **nicola.edgardo@gmail.com**
 
-- 📫 How to reach me **nicola.edgardo@gmail.com**
+- 💬 My favorites last technologies you can ask me about: **React js or Express js** 
 
 
 <h3 align="left">Languages and Tools:</h3>
