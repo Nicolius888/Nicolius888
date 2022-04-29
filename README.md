@@ -5,7 +5,7 @@
 
 - 👯 I’m currently collaborating in **Buyme-App (ecommerce)** 
 
-- 🌱 I’m currently learning **Typescript, React Native, and some Python**
+- 🌱 I’m currently learning **Typescript, Docker, and some Python**
 
 - 🦾 I’m also finishing my [Recipes App](https://github.com/Nicolius888/Food-Recipes-App)
 
