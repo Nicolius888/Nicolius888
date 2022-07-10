@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolius888&label=Profile%20views&color=0e75b6&style=flat" alt="nicolius888" /> </p>
 
-- 👯 I’m currently collaborating in **Buyme-App (ecommerce)** 
+- 👯 I just finish collaborating in **Buyme-App (ecommerce)** as my final prject for the bootcamp **Henry** 
 
 - 🌱 I’m currently learning **Typescript**
 
